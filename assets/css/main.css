@@ -1,0 +1,8 @@
+h1, p, a {
+    font-family: yahei-consolas, "微软雅黑", "黑体";
+}
+
+body {
+    padding-top: 50px;
+    -webkit-user-select: none;
+}
